@@ -411,6 +411,11 @@ article .icon {
   border-color: rgb(163, 163, 163);
 }
 
+.schoolworks {
+  display: flex; 
+  justify-content: center;
+}
+
 /* CONTACT */
 
 #contact {
